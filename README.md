@@ -52,7 +52,6 @@ Below are some recommended ETL tools that work well with Vector Database Cloud, 
 2. **Data Extraction:** Use Meltano to extract data from your preferred sources (e.g., databases, APIs). Configure extractors in the `meltano.yml` file.
 3. **Data Transformation:** Implement transformations to vectorize your data using embedding models.
 4. **Load into Vector Database Cloud:** Configure the loader to send transformed data into your Vector Database Cloud deployment using a REST API loader.
-### 1. [Meltano](https://meltano.com/)
 
 **Example Code Snippet:**
 
