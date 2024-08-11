@@ -289,16 +289,16 @@ For project-specific contribution guidelines, please refer to the [CONTRIBUTING.
 
 This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-Copyright (c) 2024 VectorDBCloud
+Copyright (c) 2024 Vector Database Cloud
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
 - Adapt — remix, transform, and build upon the material for any purpose, even commercially
 
 Under the following terms:
-- Attribution — You must give appropriate credit to VectorDBCloud, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests VectorDBCloud endorses you or your use.
+- Attribution — You must give appropriate credit to Vector Database Cloud, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Vector Database Cloud endorses you or your use.
 
-Additionally, we require that any use of this guide includes visible attribution to VectorDBCloud. This attribution should be in the form of "Guide created by VectorDBCloud" or "Based on ETL integration guide by VectorDBCloud", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
+Additionally, we require that any use of this guide includes visible attribution to Vector Database Cloud. This attribution should be in the form of "Guide created by Vector Database Cloud" or "Based on ETL integration guide by Vector Database Cloud", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
