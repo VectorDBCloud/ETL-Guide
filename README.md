@@ -3,15 +3,16 @@
 # Integrate with Popular ETL Tools
 
 ## Table of Contents
+
 1. [About Vector Database Cloud](#about-vector-database-cloud)
 2. [Introduction](#introduction)
 3. [Recommended ETL Tools](#recommended-etl-tools)
-    1. [Meltano](#1-meltano)
-    2. [Apache NiFi](#2-apache-nifi)
-    3. [Talend](#3-talend)
-    4. [Apache Airflow](#4-apache-airflow)
-    5. [Airbyte](#5-airbyte)
-    6. [MultiWoven](#6-multiwoven)
+   1. [Meltano](#1-meltano)
+   2. [Apache NiFi](#2-apache-nifi)
+   3. [Talend](#3-talend)
+   4. [Apache Airflow](#4-apache-airflow)
+   5. [Airbyte](#5-airbyte)
+   6. [MultiWoven](#6-multiwoven)
 4. [Comparison of ETL Tools](#comparison-of-etl-tools)
 5. [Example Use Cases](#example-use-cases)
 6. [Best Practices](#best-practices)
@@ -25,6 +26,7 @@
 14. [Contributing](#contributing)
 15. [License](#license)
 16. [Disclaimer](#disclaimer)
+
 
 ## About Vector Database Cloud
 
@@ -399,9 +401,16 @@ We value your feedback and are here to support you in your integration journey. 
 
 ## Contributing
 
-We welcome contributions to Vector Database Cloud! Please read our [Contributing Guide](https://github.com/VectorDBCloud/Community/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+We welcome contributions to improve and expand our Open-Source Embedding Cookbook! Here's how you can contribute:  
+1. **Fork the repository**: Create your own fork of the code.
+2. **Create a new branch**: Make your changes in a new git branch.
+3. **Make your changes**: Enhance existing cookbooks or add new ones.
+4. **Follow the style guidelines**: Ensure your code follows our coding standards.
+5. **Write clear commit messages**: Your commit messages should clearly describe the changes you've made.
+6. **Submit a pull request**: Open a new pull request with your changes.
+7. **Respond to feedback**: Be open to feedback and make necessary adjustments to your pull request.
 
-For project-specific contribution guidelines, please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file in this repository.
+For more detailed information on contributing, please refer to our [Contribution Guidelines](CONTRIBUTING.md).  
 
 
 ## License
