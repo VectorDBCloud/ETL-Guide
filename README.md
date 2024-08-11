@@ -1,4 +1,22 @@
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)
 # Integrate with Popular ETL Tools
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Recommended ETL Tools](#recommended-etl-tools)
+  - [Meltano](#1-meltano)
+  - [Apache NiFi](#2-apache-nifi)
+  - [Talend](#3-talend)
+  - [Apache Airflow](#4-apache-airflow)
+  - [Airbyte](#5-airbyte)
+  - [MultiWoven](#6-multiwoven)
+- [Example Use Cases](#example-use-cases)
+- [Conclusion](#conclusion)
+- [Related Repositories](#related-repositories)
+- [Contributing](#contributing)
+- [License](#license)
+- [Disclaimer](#disclaimer)
 
 ## Introduction
 
@@ -79,7 +97,7 @@ Apache NiFi is a robust, open-source data integration tool that provides an intu
 **Dependencies:**
 - Java 8+
 - Apache NiFi
-```
+
 ### 3. [Talend](https://www.talend.com/)
 
 Talend is a powerful ETL tool that offers a suite of data integration products. It's particularly useful for enterprises looking to integrate large-scale data operations with VectorDBCloud.
@@ -193,7 +211,6 @@ Airbyte is an open-source data integration platform that supports a wide array o
 **Dependencies:**
 - Docker (for Airbyte deployment)
 - Airbyte CLI
-```
 
 ### 6. [MultiWoven](https://multiwoven.com/)
 
@@ -245,3 +262,51 @@ Here are some examples of how you can leverage these ETL tools with VectorDBClou
 Integrating VectorDBCloud with these popular ETL tools allows you to build powerful, scalable data workflows. Whether you're preparing data for machine learning models, conducting AI-driven searches, or managing large-scale data operations, these tools can help you get the most out of VectorDBCloud.
 
 For more detailed guides and examples, check out our [Integration Documentation](https://docs.vectordbcloud.com/integration).
+
+## Related Repositories
+
+- [Snippets](https://github.com/VectorDBCloud/snippets)
+- [Chatbots](https://github.com/VectorDBCloud/chatbots)
+- [Demos](https://github.com/VectorDBCloud/demos)
+- [Tutorials](https://github.com/VectorDBCloud/tutorials)
+- [Models](https://github.com/VectorDBCloud/models)
+- [Embeddings](https://github.com/VectorDBCloud/Embeddings)
+- [Datasets](https://github.com/VectorDBCloud/Datasets)
+- [Website](https://github.com/VectorDBCloud/website)
+- [Community](https://github.com/VectorDBCloud/Community)
+- [Showcase](https://github.com/VectorDBCloud/Showcase)
+- [Ingestion-Cookbooks](https://github.com/VectorDBCloud/Ingestion-Cookbooks)
+- [Open-Source-Embedding-Cookbook](https://github.com/VectorDBCloud/Open-Source-Embedding-Cookbook)
+
+## Contributing
+
+We welcome contributions to VectorDBCloud! Please read our [Contributing Guide](https://github.com/VectorDBCloud/Community/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+For project-specific contribution guidelines, please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file in this repository.
+
+
+## License
+
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Copyright (c) 2024 VectorDBCloud
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- Attribution — You must give appropriate credit to VectorDBCloud, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests VectorDBCloud endorses you or your use.
+
+Additionally, we require that any use of this guide includes visible attribution to VectorDBCloud. This attribution should be in the form of "Guide created by VectorDBCloud" or "Based on ETL integration guide by VectorDBCloud", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For the full license text, visit: https://creativecommons.org/licenses/by/4.0/legalcode
+
+
+## Disclaimer
+
+The information and resources provided in this repository are for general informational purposes only. While we strive to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information, products, services, or related graphics contained in this repository for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+
+Vector Database Cloud configurations may vary, and it's essential to consult the official documentation before implementing any solutions or suggestions found in this repository. Always follow best practices for security and performance when working with databases and cloud services.
